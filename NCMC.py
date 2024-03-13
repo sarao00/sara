@@ -10085,7 +10085,7 @@ def passwrd2():
 #--------------------[ METODE-B-API ]-----------------#
 #-------------------[ BAGIAN-WORDLIST ]------------#
  
-def passwrd1():
+def passwrd():
     os.system('clear')
     print("")
     print(f"\x1b[1;92m╍╌╍╌╍\x1b[1;95m‒╍╌╍╌╍‒\x1b[1;94m╍╌╍╌╍\x1b[1;97m╌╍╌╍╍\x1b[1;96m╌╍╌╍‒╍\x1b[1;93m╌╍╌╍‒╍\x1b[1;91m╌╍╌╍╌╍\x1b[1;92m╌╍")
